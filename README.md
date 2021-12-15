@@ -1,5 +1,5 @@
 # It's Just An Interview Task
-## Restaurant reviews analysis with machine learning
+## Restaurant reviews analysis with machine learning: A short review
 **What is NLP?**
 Natural language processing (NLP for short) is a part of artificial intelligence for processing and analyzing human languages such as English. We use machine learning algorithms to process and analyze texts and even handle predictive analysis.
 
@@ -14,8 +14,9 @@ There are a variety of choices for using natural language processing on any text
 
 -[Pandas](https://pandas.pydata.org/)
 
--[Scikitlearn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/).
+-[Scikitlearn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
 
+## How to Do
 
 - **Step 1: Importing the libraries**
 
